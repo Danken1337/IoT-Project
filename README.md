@@ -15,39 +15,16 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 
 ## Overview of Project setup:
 
-
+<br>
 <img src="https://github.com/Danken1337/IoT-Project/blob/main/projectOverview.png"/>
-
-```
-+------------------------------+           +----------------+          +---------------------------+        +-----------------------+
-| Datasource                   |           | Azure Deivce   |          | Azure IoT-Hub             |        | Azure Blob-Container  |
-| RaspberryPi Sensor Simulator | --------> | Gets data from | <------> | Controlls Device, storage | -----> | Stores collected data |
-| Sends data to device         |           | datasource     |          | and data stream           |        |                       |
-+------------------------------+           +----------------+          +---------------------------+        +-----------------------+
-                                                                                                                         |
-                                                                                                                         |
-                                                                                                                         |
-                                                                                                            +----------------------------+
-                                                                                                            | Azure Stream Analytics Job |     |
-                                                                                                            | Strams Data to PowerBi     |       
-                                                                                                            +----------------------------+
-                                                                                                                         |
-                                                                                                                         |
-                                                                                                                         |
-                                                                                                            +-----------------------+
-                                                                                                            | Power Bi              |
-                                                                                                            | Gets data from dataset|
-                                                                                                            | Visualizes Data       |
-                                                                                                            +-----------------------+
-
-```
+<br>
 ## Step by step setup:
 
 
 
 ## Results:
-
+<br>
 <img src="https://github.com/Danken1337/IoT-Project/blob/main/visualiseringIoTproject.png" width="800"/>
-
+<br>
 
 
