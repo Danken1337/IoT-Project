@@ -14,6 +14,7 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 - Power Bi
 
 ## Overview of Project setup:
+```
 +------------------------------+           +----------------+          +---------------------------+        +-----------------------+
 | Datasource                   |           | Azure Deivce   |          | Azure IoT-Hub             |        | Azure Blob-Container  |
 | RaspberryPi Sensor Simulator | --------> | Gets data from | <------> | Controlls Device, storage | -----> | Stores collected data |
@@ -34,7 +35,8 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
                                                                                                             | Gets data from dataset|
                                                                                                             | Visualizes Data       |
                                                                                                             +-----------------------+
-                                                                                                           
+
+```
 ## Step by step setup:
 
 
