@@ -25,7 +25,7 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 
 ## Results:
 <br>
-<img src="https://github.com/Danken1337/IoT-Project/blob/main/visualiseringIoTproject.png" width="800"/>
+<img src="https://github.com/Danken1337/IoT-Project/blob/main/visualize.png" width="800"/>
 <br>
 
 
