@@ -45,7 +45,8 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 
 
 
-
+<br>
+<img src="img/powerbi.png" width="800"/>
 
 
 
