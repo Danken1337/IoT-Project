@@ -14,6 +14,10 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 - Power Bi
 
 ## Overview of Project setup:
+
+
+<img src="https://github.com/Danken1337/IoT-Project/blob/main/projectOverview.png"/>
+
 ```
 +------------------------------+           +----------------+          +---------------------------+        +-----------------------+
 | Datasource                   |           | Azure Deivce   |          | Azure IoT-Hub             |        | Azure Blob-Container  |
