@@ -32,14 +32,14 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 5. In the end I created a Power Bi report wich "subscribes" to the Dataset I created before, and visualizes the Data in a Power Bi graph.
 
 
-## Overview of Project setup:
+## Overview of Project:
 
 <br>
 <img src="https://github.com/Danken1337/IoT-Project/blob/main/projectOverview.png"/>
 <br>
 
 
-## Results:
+## Results from Power Bi:
 <br>
 <img src="https://github.com/Danken1337/IoT-Project/blob/main/visualize.png" width="800"/>
 <br>
