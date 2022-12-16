@@ -18,8 +18,8 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 
 1. First i created and configured up my own Azure IoT-Hub, in Azure Portal. This Hub would later controll my Device, endpoints and routes for incoming Data.
 
-2. Then i created an Azure device in my IoT-Hub, wich will be used to recieve data-messages in the future.
-   I choose to use "Raspberry Pi Azure IoT Online Simulator" from Azure.
+2. Then i created an Azure device in my IoT-Hub, wich would be used to recieve data-messages in the future.
+   I choose to use "Raspberry Pi Azure IoT Online Simulator" from Azure as Datasource/Sensor.
    I configured the code for the Raspberry Pi so it would send data-messages to my IoT-Hub Device.
 
 3. Then I created a Storage Account in Azure Portal, in the account I created a blob-container to store data.
@@ -29,7 +29,7 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 4. After this I configured up a "Stream Analytics Job" in the Azure Portal. 
    This would then stream Data from my blob-container, to a Dataset wich I created in my Power Bi Account.
 
-5. In the end I created a Power Bi report wich "subscribes" to the Dataset i created before, and visualizes the Data in a Power Bi graph.
+5. In the end I created a Power Bi report wich "subscribes" to the Dataset I created before, and visualizes the Data in a Power Bi graph.
 
 
 ## Overview of Project setup:
