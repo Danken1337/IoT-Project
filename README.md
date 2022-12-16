@@ -41,7 +41,8 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 
 
 
-## Results:![raspSimulatorIoTproject]
+## Results:!
+[raspSimulatorIoTproject]
 
 
 
