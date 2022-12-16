@@ -1,19 +1,20 @@
 # IoT-Project
 Documentation/README for my IoT-Project (no code involved)
 
-# Project Idea: 
+## Project Idea: 
 
 
 ## Resources used:
 
+- Raspberry Pi Azure IoT Online Simulator
 
-* ### Overview:
-
-
-
-Step by step setup:
+## Overview:
 
 
 
-Results:
+## Step by step setup:
+
+
+
+## Results:
 
