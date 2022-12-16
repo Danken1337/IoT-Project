@@ -18,6 +18,7 @@ It collects data from a sensor simulator, stores data in a blob-container and vi
 <br>
 <img src="https://github.com/Danken1337/IoT-Project/blob/main/projectOverview.png"/>
 <br>
+
 ## Step by step setup:
 
 
